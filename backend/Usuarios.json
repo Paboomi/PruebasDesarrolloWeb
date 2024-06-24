@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Pablo",
+    "apellido": "Alvarado",
+    "edad": 24,
+    "carnet": 20243216,
+    "password": 1234
+  },
+  {
+    "nombre": "Julia",
+    "apellido": "Mendez",
+    "edad": 22,
+    "carnet": 20228405,
+    "password": 1544
+  },
+  {
+    "nombre": "Angela",
+    "apellido": "Segura",
+    "edad": 24,
+    "carnet": 202430476,
+    "password": 1124
+  }
+]
